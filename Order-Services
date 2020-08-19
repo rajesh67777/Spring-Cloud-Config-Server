@@ -1,0 +1,2 @@
+spring.application.name=Order-Services
+server.port=8084
